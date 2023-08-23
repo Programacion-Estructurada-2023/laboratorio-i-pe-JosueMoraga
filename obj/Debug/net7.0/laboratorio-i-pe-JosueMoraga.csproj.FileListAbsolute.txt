@@ -1,0 +1,14 @@
+F:\UNIVO\Programacion estructurada\Laboratorio 1\laboratorio-i-pe-JosueMoraga\bin\Debug\net7.0\laboratorio-i-pe-JosueMoraga.exe
+F:\UNIVO\Programacion estructurada\Laboratorio 1\laboratorio-i-pe-JosueMoraga\bin\Debug\net7.0\laboratorio-i-pe-JosueMoraga.deps.json
+F:\UNIVO\Programacion estructurada\Laboratorio 1\laboratorio-i-pe-JosueMoraga\bin\Debug\net7.0\laboratorio-i-pe-JosueMoraga.runtimeconfig.json
+F:\UNIVO\Programacion estructurada\Laboratorio 1\laboratorio-i-pe-JosueMoraga\bin\Debug\net7.0\laboratorio-i-pe-JosueMoraga.dll
+F:\UNIVO\Programacion estructurada\Laboratorio 1\laboratorio-i-pe-JosueMoraga\bin\Debug\net7.0\laboratorio-i-pe-JosueMoraga.pdb
+F:\UNIVO\Programacion estructurada\Laboratorio 1\laboratorio-i-pe-JosueMoraga\obj\Debug\net7.0\laboratorio-i-pe-JosueMoraga.GeneratedMSBuildEditorConfig.editorconfig
+F:\UNIVO\Programacion estructurada\Laboratorio 1\laboratorio-i-pe-JosueMoraga\obj\Debug\net7.0\laboratorio-i-pe-JosueMoraga.AssemblyInfoInputs.cache
+F:\UNIVO\Programacion estructurada\Laboratorio 1\laboratorio-i-pe-JosueMoraga\obj\Debug\net7.0\laboratorio-i-pe-JosueMoraga.AssemblyInfo.cs
+F:\UNIVO\Programacion estructurada\Laboratorio 1\laboratorio-i-pe-JosueMoraga\obj\Debug\net7.0\laboratorio-i-pe-JosueMoraga.csproj.CoreCompileInputs.cache
+F:\UNIVO\Programacion estructurada\Laboratorio 1\laboratorio-i-pe-JosueMoraga\obj\Debug\net7.0\laboratorio-i-pe-JosueMoraga.dll
+F:\UNIVO\Programacion estructurada\Laboratorio 1\laboratorio-i-pe-JosueMoraga\obj\Debug\net7.0\refint\laboratorio-i-pe-JosueMoraga.dll
+F:\UNIVO\Programacion estructurada\Laboratorio 1\laboratorio-i-pe-JosueMoraga\obj\Debug\net7.0\laboratorio-i-pe-JosueMoraga.pdb
+F:\UNIVO\Programacion estructurada\Laboratorio 1\laboratorio-i-pe-JosueMoraga\obj\Debug\net7.0\laboratorio-i-pe-JosueMoraga.genruntimeconfig.cache
+F:\UNIVO\Programacion estructurada\Laboratorio 1\laboratorio-i-pe-JosueMoraga\obj\Debug\net7.0\ref\laboratorio-i-pe-JosueMoraga.dll
